@@ -25,7 +25,7 @@ $(document).ready(function(){
 
 		}
 
-		// menuAdapt($('.header .glyphicon.glyphicon-menu-hamburger'), $('.header__navList'), $('.header'));
+		menuAdapt($('.header .glyphicon.glyphicon-menu-hamburger'), $('.header__navList'), $('.header'));
 	
 	/*--------------------------------- функция для адаптивного меню End -------------------------*/
 
